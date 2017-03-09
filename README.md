@@ -1,2 +1,2 @@
 # 2048
-2048 coded using SFML
+2048 coded in C++ using SFML
